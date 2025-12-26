@@ -2,8 +2,6 @@
 
 ### An experienced C++ developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnz-c&label=Profile views&color=0e75b6&style=flat" alt="dnz-c" /> </p>
-
 - 🔭 I'm currently working on **Nasdaq trading engine**
 
 - 🌱 I'm currently learning **Hyperoptimization and Memory management**
